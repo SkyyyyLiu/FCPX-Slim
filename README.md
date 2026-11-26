@@ -1,5 +1,9 @@
 # FCPX Slim
 
+## [⬇ 下载 FCPX Slim 0.9.6](https://github.com/SkyyyyLiu/FCPX-Slim/releases/download/v0.9.6/FCPX-Slim-0.9.6-arm64.zip)
+
+Apple 芯片版 ZIP，需 macOS 14 或更新版本。解压后将 `FCPX Slim.app` 拖到「应用程序」。[首次打开说明](INSTALL.md) · [版本发布页](https://github.com/SkyyyyLiu/FCPX-Slim/releases/tag/v0.9.6)
+
 FCPX Slim 是胡子盖制作的专为 Final Cut Pro 工程文件进行瘦身的工具。它在 Mac 上扫描 `.fcpbundle`，列出渲染文件、转码缓存和可替换为库外链接的重复原始素材。
 
 ## 安装
