@@ -1,6 +1,6 @@
 # FCPX Slim
 
-FCPX Slim 是胡子盖制作的 Final Cut Pro 资源库清理工具。它在 Mac 上扫描 `.fcpbundle`，列出渲染文件、转码缓存和可替换为库外链接的重复原始素材。
+FCPX Slim 是胡子盖制作的专为 Final Cut Pro 工程文件进行瘦身的工具。它在 Mac 上扫描 `.fcpbundle`，列出渲染文件、转码缓存和可替换为库外链接的重复原始素材。
 
 ## 安装
 
